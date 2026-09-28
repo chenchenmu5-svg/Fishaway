@@ -1,4 +1,4 @@
-# Fish away 🐟 —— GUI 终端（v3）
+# Fish away 🐟 —— GUI 终端
 
 对标 **Windows Terminal** 的 Windows 桌面终端：内置 **命令提示符（CMD）**、
 **Windows PowerShell / PowerShell 7**、**Python**、**Node.js**、**Git Bash**、
